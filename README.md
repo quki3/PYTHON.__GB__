@@ -13,3 +13,5 @@ no ambiguo.
 *configuracion*
 
 *code*
+bash
+py ' activa la consola interactiva
