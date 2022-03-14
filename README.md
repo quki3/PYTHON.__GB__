@@ -10,7 +10,7 @@ no ambiguo.
 - sudo apt update
 - sudo apt install python
 - python -v 
-
+- python3 `inicia la consola interactiva`
 **windows**
 - python
 - cender si estas windows para manejar pyphon desde consola
