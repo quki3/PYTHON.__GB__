@@ -1,7 +1,8 @@
-# PYTHON.__GB__
-*introduccion*
-*instalacion*
+# instalacion*
 **ubuntu**
+- per default ubuntu 20 bring the version 3.8 installed
+- check you vesion python3 --version
+- anyway you can install python
 - sudo apt update
 - sudo apt install python
 - python -v 
@@ -10,12 +11,3 @@
 - python
 - cender si estas windows para manejar pyphon desde consola
 - 
-
-*configuracion*
-
-*code*
-bash
-py ' activa la consola interactiva
-
-*run *
-- `python namearch.py` corre el archivo
